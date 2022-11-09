@@ -1,3 +1,18 @@
+## Collaboration
+
+University of Nevada Reno
+Computer Science and Engineering
+
+Instructors: 
+Dr. Dascalu
+Ms. Devrin Lee
+
+Team 09 Members: 
+Tristan Bailey
+Angel Carranco Muller
+Gabriel Mortensen
+Aaron Ramirez
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
